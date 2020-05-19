@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import os
+import sqlite3
 import sys
 
 if __name__ == "__main__":
